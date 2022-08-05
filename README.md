@@ -5,7 +5,7 @@
 
 https://plataforma-meta.netlify.app
 
-Plataforma Meta é uma aplicação full stack web e mobile construída durante a edição de 05/2022 da **Semana DevSuperior**, evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+Plataforma Meta é uma aplicação full stack web e mobile construída durante a edição de 07/2022 da **Semana DevSuperior**, evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
 A aplicação consiste em uma listagem de vendas e envio de mensagens sms para notificar o vendedor de um venda.
 
